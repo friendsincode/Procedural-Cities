@@ -1,4 +1,12 @@
+
+
+
 # Procedural-Cities
+
+  ** this requires runtimemeshcomponent found here https://github.com/friendsincode/RuntimeMeshComponent **
+  **this requires ue4 v4.16**
+
+
 
 This project aims to provide a framework and a solid implementation of different techniques for generating complete seamless procedural cities with interiors for all buildings.
 
